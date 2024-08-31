@@ -1,0 +1,24 @@
+#
+# Copyright (C) 2021 The LineageOS Project
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+
+## Graphics
+ro.opengles.version=196610
+
+## Bluetooth
+ro.boot.btmacaddr=22:22:ce:d2:ca:13
+
+## USB
+vendor.usb.controller=ff400000.dwc2_a
+
+## Dolby
+ro.vendor.platform.support.dolbyvision=false
+vendor.media.support.dolbyvision=false
+
+## SOC
+ro.soc.model=AMLS922X
+
+## Wi-Fi
+vendor.bcm_wifi=bcm

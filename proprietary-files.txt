@@ -1,0 +1,9 @@
+## FW files from the original stock ROM
+
+# Wifi
+vendor/etc/wifi/6256/config.txt
+vendor/etc/wifi/6256/fw_bcm43456c5_ag.bin
+vendor/etc/wifi/6256/fw_bcm43456c5_ag_apsta.bin
+vendor/etc/wifi/6256/nvram_ap6256.txt
+vendor/etc/bluetooth/BCM4345C5.hcd
+vendor/etc/bluetooth/bt_vendor.conf

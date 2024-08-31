@@ -1,0 +1,2 @@
+on boot
+    insmod /vendor/lib/modules/dhd.ko firmware_path=/vendor/etc/wifi/6256/ nvram_path=/vendor/etc/wifi/6256/
